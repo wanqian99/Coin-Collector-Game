@@ -1,5 +1,6 @@
 # Intro-to-programming-1
 
+** link only works on chrome
 https://mini-game-intro-to-programming-1-47uzxtb6r-wanqian99.vercel.app
 
 In this module, I was tasked to create a simple game using Javascript and P5.js library.
