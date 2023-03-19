@@ -1,4 +1,4 @@
-# Coin-Collector
+# Coin-Collectora
 
 ** link only works on chrome
 https://mini-game-intro-to-programming-1-47uzxtb6r-wanqian99.vercel.app
